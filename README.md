@@ -86,8 +86,8 @@ class HamzaAminKhan extends Human {
 🔥 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hamzaaminkhan/hamzaaminkhan/output/github-contribution-grid-snake.svg"/>
-</p>---
+  <img src="https://raw.githubusercontent.com/hamzaaminkhan/hamzaaminkhan/output/github-contribution-grid-snake.svg" />
+</p>
 
 🎮 Featured Projects
 
