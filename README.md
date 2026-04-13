@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=hamzaaminkhan&color=blue)
+
 🎮 Hamza Amin Khan — Flutter Developer
 
 <p align="center">
