@@ -85,6 +85,16 @@ class HamzaAminKhan extends Human {
   <img src="https://streak-stats.demolab.com?user=hamzaaminkhan&theme=tokyonight&cache_seconds=1800" />
 </p>
 
+---
+
+📈 My GitHub Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamzaaminkhan&theme=tokyo-night&area=true&hide_border=false&custom_title=My%20GitHub%20Activity" style="width: 100%; height: auto;" />
+</p>
+
+---
+
 🔥 Contribution Snake
 
 <p align="center">
