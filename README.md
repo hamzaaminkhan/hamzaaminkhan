@@ -153,7 +153,3 @@ class HamzaAminKhan extends Human {
 «“Consistency beats talent when talent is inconsistent.”»
 
 ---
-
-⚡ Fun Fact
-
-I debug faster after chai ☕ than most people after sleep 😴
