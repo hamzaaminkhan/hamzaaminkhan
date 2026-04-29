@@ -154,5 +154,3 @@ class HamzaAminKhan extends Human {
 
 ---
 
- ---
-
