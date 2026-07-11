@@ -152,4 +152,3 @@ class HamzaAminKhan extends Human {
 
 «“Consistency beats talent when talent is inconsistent.”»
 
----
