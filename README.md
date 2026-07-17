@@ -146,6 +146,7 @@ class HamzaAminKhan extends Human {
 
 ---
 
+
 💣 Philosophy
 
 «“Most developers write code. I design experiences.”»
